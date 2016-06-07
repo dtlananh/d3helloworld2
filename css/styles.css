@@ -1,0 +1,36 @@
+.title
+{
+    color: purple;
+    font-size: 80px;
+    text-align: center;
+    font-style: italic
+}
+.description
+{
+	color:green;
+	font-size:30px;
+	border-left: solid grey;
+	padding-left: 20px;
+	width:600px;
+	background: #CEF6F5;
+	margin-left: 20px;
+}
+.image
+{
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+.chart1
+{
+	width:200px;
+	height:200px
+}
+.circ1
+{
+
+}
+.ellipse1
+{
+	fill:pink;
+}
